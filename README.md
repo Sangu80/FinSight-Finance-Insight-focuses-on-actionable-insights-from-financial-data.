@@ -57,12 +57,15 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-🌟 Highlights
+🌟 Highlights:
+
 📊 Multi-Model Approach – anomaly detection, classification, and SARIMAX forecasting.
 
 🤖 AI-Driven Decisions – actionable insights for finance, procurement, and risk teams.
 
 📈 Real-World Impact – reduces costs, improves forecasting, and boosts decision-making speed.
+
+
 
 
 📌 Business Workflow Diagram:
